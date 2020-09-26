@@ -36,5 +36,5 @@ public class TernaryOperatorSample {
 }
 
 ```
-
-![run program](./TernaryOperator.png)
+*Sample-1*  
+![Sample1](./sample1.png)
